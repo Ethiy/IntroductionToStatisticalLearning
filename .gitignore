@@ -1,0 +1,8 @@
+*.pdf
+*.ps
+*/*.pdf
+**/*.aux
+**/*.png
+**/*.log
+**/*.toc
+**/*.synctex.gz
